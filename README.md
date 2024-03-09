@@ -1,5 +1,8 @@
 <h2 align="center">Hi 👋, I'm Tsering Dhargyal</h2>
 <h3 align="left">A passionate data engineer and analyst</h3>
+<p>
+I specialize in data analysis, proficient in tasks like data cleansing, manipulation, and analysis. Additionally, I excel in creating visualizations and dashboards using Tableau, and possess experience in statistical analysis and modeling using Python libraries. My expertise extends to machine learning algorithms for predictive modeling. Continuously evolving, I stay abreast of industry trends and tools to enhance my data analysis skills.
+</p>
 
 - 🔭 I’m currently working on **Web application**
 

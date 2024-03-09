@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tsering Dhargyal</h1>
+<h2 align="center">Hi 👋, I'm Tsering Dhargyal</h2>
 <h3 align="left">A passionate data engineer and analyst</h3>
 
 - 🔭 I’m currently working on **Web application**

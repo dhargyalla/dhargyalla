@@ -6,7 +6,7 @@ I specialize in data analysis, proficient in tasks like data cleansing, manipula
 
 - 🔭 I’m currently working on **Web application**
 
-- 👨‍💻 All of my projects are available at [[https://dhargyalla.github.io/](https://www.codewithtd.com/)]
+- 👨‍💻 All of my projects are available at [(https://www.codewithtd.com/)]
 
 - 📫 How to reach me **dhargyalofficial@gmail.com**
 
